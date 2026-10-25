@@ -1,12 +1,19 @@
- <div align="center">
+<div align="center">
 
-# Mustaqeem Momin
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1220,50:172554,100:312E81&text=Mustaqeem%20Momin&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Growing%20in%20the%20BizTech%20World&descSize=17&descAlignY=68&animation=fadeIn" width="100%" alt="Mustaqeem Momin — BizTech" />
 
-### Growing in the BizTech World
+<br/>
 
-**Software Engineering · Business & Monetization · AI/ML**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=650&lines=Software+Engineering+%C3%97+Business;AI%2FML+%7C+NLP+%7C+Backend+Development;Turning+Ideas+into+Technology-Driven+Solutions" alt="Professional tagline" />
 
-[LinkedIn](https://www.linkedin.com/in/mustaqeemmomin/) · [GitHub](https://github.com/Mustaqeem1021) · [LeetCode](https://leetcode.com/u/mustaqeemmomin14/) · [Email](mailto:mustaqeemmomin14@gmail.com)
+<br/>
+
+<a href="https://github.com/Mustaqeem1021">
+<img src="https://komarev.com/ghpvc/?username=Mustaqeem1021&style=flat-square&color=1D4ED8&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/Mustaqeem1021?tab=followers">
+<img src="https://img.shields.io/github/followers/Mustaqeem1021?style=flat-square&color=1D4ED8&label=FOLLOWERS" alt="Followers" />
+</a>
 
 </div>
 
@@ -14,81 +21,110 @@
 
 ## About Me
 
-I'm a Computer Science Engineer pursuing my **M.Tech in Computer Science at IIT Patna**, with a background in software development and business monetization.
+I'm a Computer Science Engineer interested in the intersection of **technology, business, and innovation**.
 
-My interests lie at the intersection of technology and business — building useful software, exploring AI-driven solutions, and understanding how technology enables business growth.
+Currently pursuing my M.Tech in Computer Science at **IIT Patna**, I enjoy exploring software engineering, AI-driven applications, and technology-enabled business growth.
 
-- **Education:** M.Tech CSE, IIT Patna | B.Tech CSE, VIT Bhopal
-- **Previous Experience:** Monetization Associate at NoBrokerHood
-- **Technical Interests:** AI/ML, NLP, Backend Development and Software Engineering
-- **Business Interests:** Monetization, Business Growth, Brand Building and Product Strategy
-- **Currently Exploring:** Technology-driven business solutions and intelligent applications
+- 🎓 M.Tech CSE — IIT Patna
+- 💼 Former Monetization Associate — NoBrokerHood
+- 💻 Interested in Software Engineering, AI/ML, and NLP
+- 📈 Exploring Business Growth, Monetization, and Product Strategy
+- 🎯 Focused on growing in the **BizTech ecosystem**
+
+---
 
 ## Experience
 
-### Monetization Associate · NoBrokerHood
-
-- Worked in the business monetization domain within a technology-driven platform.
-- Gained exposure to business growth, monetization initiatives, and brand-building activities.
-
-## Technical Skills
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frameworks & Tools**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-## Selected Projects
-
-### NLP-Based Language Classification
-Explored language and dialect classification using natural language processing techniques.
-
-**Tech:** Python · NLTK · NLP
-
-### Offensive Language Detection
-Research interest in detecting offensive language on social media to support cyberbullying prevention.
-
-**Tech:** Python · NLP · Machine Learning
-
-[Explore my repositories →](https://github.com/Mustaqeem1021?tab=repositories)
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mustaqeem1021&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&include_all_commits=true" alt="GitHub statistics" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaqeem1021&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" alt="Most used languages" />
+<details open>
+<summary><strong>Monetization Associate · NoBrokerHood</strong></summary>
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Mustaqeem1021&hide_border=true&theme=transparent&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub contribution streak" />
+Experience in the business monetization domain at a technology-driven platform, with exposure to business growth, monetization initiatives, and brand-building activities.
+
+**Focus areas:** Business Development · Monetization · Brand Building
+
+</details>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js" alt="Python, Java and JavaScript" />
+
+**Development & Tools**
+
+<img src="https://skillicons.dev/icons?i=spring,react,mysql,git,github,linux,postman,gcp" alt="Development technologies and tools" />
 
 </div>
 
 ---
 
-## Connect
+## Projects
 
-I'm interested in connecting with people working across software engineering, AI, product development, and technology-driven business.
+<box align="start" gap={3}>
+</box>
+
+### NLP-Based Language Classification
+
+Exploring language and dialect classification using Natural Language Processing.
+
+`Python` `NLTK` `NLP`
+
+### Offensive Language Detection
+
+An NLP-focused research direction for identifying offensive language on social media and supporting cyberbullying prevention.
+
+`Python` `NLP` `Machine Learning`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustaqeemmomin/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mustaqeemmomin14/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:mustaqeemmomin14@gmail.com)
-
-*Building at the intersection of technology and business.*
+<a href="https://github.com/Mustaqeem1021?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
 
 </div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mustaqeem1021&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93C5FD&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaqeem1021&layout=compact&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=CBD5E1&langs_count=6" alt="Top programming languages" />
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Mustaqeem1021&hide_border=true&background=0B1220&ring=60A5FA&fire=93C5FD&currStreakLabel=93C5FD&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mustaqeemmomin/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/mustaqeemmomin14/">
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-334155?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="mailto:mustaqeemmomin14@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get_in_Touch-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+*Building with technology. Thinking with business. Growing with purpose.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172554,100:312E81&height=90&section=footer" width="100%" alt="Footer" />
