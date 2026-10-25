@@ -1,99 +1,94 @@
-<!-- ═══════════════════ HEADER ═══════════════════ -->
+ <div align="center">
 
-<div align="center">
+# Mustaqeem Momin
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:0f172a&text=Mustaqeem%20Momin&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Building%20ideas%20into%20impactful%20software&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Mustaqeem Momin profile banner" />
+### Growing in the BizTech World
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI%2FML+%26+NLP+Enthusiast;Python+%7C+Java+%7C+Backend+Development;Always+learning%2C+always+building." alt="Typing SVG" />
-</a>
+**Software Engineering · Business & Monetization · AI/ML**
 
-<br/>
-
-<a href="https://github.com/Mustaqeem1021">
-  <img src="https://komarev.com/ghpvc/?username=Mustaqeem1021&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-<a href="https://github.com/Mustaqeem1021?tab=followers">
-  <img src="https://img.shields.io/github/followers/Mustaqeem1021?style=flat-square&color=6366f1&labelColor=0f172a&label=FOLLOWERS" alt="GitHub followers" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/mustaqeemmomin/) · [GitHub](https://github.com/Mustaqeem1021) · [LeetCode](https://leetcode.com/u/mustaqeemmomin14/) · [Email](mailto:mustaqeemmomin14@gmail.com)
 
 </div>
 
 ---
 
-## `whoami` — A little about me
+## About Me
 
-```python
-class MustaqeemMomin:
-    def __init__(self):
-        self.education = "M.Tech CSE @ IIT Patna"
-        self.previous_degree = "B.Tech CSE @ VIT Bhopal"
-        self.interests = ["AI/ML", "NLP", "Backend Engineering"]
-        self.languages = ["Python", "Java", "SQL"]
-        self.current_focus = "AI-powered solutions"
+I'm a Computer Science Engineer pursuing my **M.Tech in Computer Science at IIT Patna**, with a background in software development and business monetization.
 
-    def motto(self):
-        return "Learn. Build. Improve. Repeat."
-```
+My interests lie at the intersection of technology and business — building useful software, exploring AI-driven solutions, and understanding how technology enables business growth.
 
-- 🎓 Pursuing M.Tech in Computer Science at **IIT Patna**.
-- 🧠 Exploring AI/ML, Natural Language Processing, and intelligent systems.
-- 💻 Building with Python, Java, SQL, and modern development tools.
-- 🔬 Interested in applying NLP to offensive-language detection and cyberbullying prevention.
-- 🤝 Open to collaborating on meaningful software and AI projects.
+- **Education:** M.Tech CSE, IIT Patna | B.Tech CSE, VIT Bhopal
+- **Previous Experience:** Monetization Associate at NoBrokerHood
+- **Technical Interests:** AI/ML, NLP, Backend Development and Software Engineering
+- **Business Interests:** Monetization, Business Growth, Brand Building and Product Strategy
+- **Currently Exploring:** Technology-driven business solutions and intelligent applications
 
----
+## Experience
 
-## `tech_stack` — Tools I work with
+### Monetization Associate · NoBrokerHood
 
-<div align="center">
+- Worked in the business monetization domain within a technology-driven platform.
+- Gained exposure to business growth, monetization initiatives, and brand-building activities.
+
+## Technical Skills
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks, databases & tools**
+**Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=spring,react,mysql,git,github,linux,postman,gcp" alt="Spring, React, MySQL, Git, GitHub, Linux, Postman and Google Cloud" />
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-</div>
+## Selected Projects
 
----
+### NLP-Based Language Classification
+Explored language and dialect classification using natural language processing techniques.
 
-## `github_stats` — My activity
+**Tech:** Python · NLTK · NLP
+
+### Offensive Language Detection
+Research interest in detecting offensive language on social media to support cyberbullying prevention.
+
+**Tech:** Python · NLP · Machine Learning
+
+[Explore my repositories →](https://github.com/Mustaqeem1021?tab=repositories)
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mustaqeem1021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mustaqeem1021&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&include_all_commits=true" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaqeem1021&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=6" alt="Most used programming languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaqeem1021&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" alt="Most used languages" />
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Mustaqeem1021&hide_border=true&background=0D1117&ring=818CF8&fire=A78BFA&currStreakLabel=818CF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Mustaqeem1021&hide_border=true&theme=transparent&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## `connect()` — Let's connect
+## Connect
+
+I'm interested in connecting with people working across software engineering, AI, product development, and technology-driven business.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mustaqeemmomin/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/u/mustaqeemmomin14/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="mailto:mustaqeemmomin14@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustaqeemmomin/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mustaqeemmomin14/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-64748b?style=flat-square&logo=gmail&logoColor=white)](mailto:mustaqeemmomin14@gmail.com)
 
-<br/><br/>
-
-*"Great software starts with curiosity and grows through consistency."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner" />
+*Building at the intersection of technology and business.*
 
 </div>
