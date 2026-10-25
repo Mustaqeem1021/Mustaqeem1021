@@ -1,36 +1,99 @@
-<h1 align="center">Hi 👋, I'm Mustaqeem Momin</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaqeem1021&label=Profile%20views&color=0e75b6&style=flat" alt="mustaqeem1021" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustaqeem1021" alt="mustaqeem1021" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:0f172a&text=Mustaqeem%20Momin&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Building%20ideas%20into%20impactful%20software&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Mustaqeem Momin profile banner" />
 
-- 🔭 I’m currently working on **Detecting Offensive Language in Social Media with an NLP-Driven Framework for Cyberbullying Prevention**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI%2FML+%26+NLP+Enthusiast;Python+%7C+Java+%7C+Backend+Development;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **JAVA, Springboot**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mustaqeem1021](https://github.com/Mustaqeem1021)
+<a href="https://github.com/Mustaqeem1021">
+  <img src="https://komarev.com/ghpvc/?username=Mustaqeem1021&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/Mustaqeem1021?tab=followers">
+  <img src="https://img.shields.io/github/followers/Mustaqeem1021?style=flat-square&color=6366f1&labelColor=0f172a&label=FOLLOWERS" alt="GitHub followers" />
+</a>
 
-- 💬 Ask me about **Python, JAVA, SQL, HTML, CSS**
+</div>
 
-- 📫 How to reach me **mustaqeemmomin14@gmail.com**
+---
 
-- 📄 Know about my experiences [https://shorturl.at/QG404](https://shorturl.at/QG404)
+## `whoami` — A little about me
 
-- ⚡ Fun fact **Gym💪🏻, Travelling🗻**
+```python
+class MustaqeemMomin:
+    def __init__(self):
+        self.education = "M.Tech CSE @ IIT Patna"
+        self.previous_degree = "B.Tech CSE @ VIT Bhopal"
+        self.interests = ["AI/ML", "NLP", "Backend Engineering"]
+        self.languages = ["Python", "Java", "SQL"]
+        self.current_focus = "AI-powered solutions"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustaqeemmomin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustaqeemmomin/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/mustaqeemmomin14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/mustaqeemmomin14/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hackerearth.com/@mustaqeemmomin14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth.com/@mustaqeemmomin14/" height="30" width="40" /></a>
-</p>
+    def motto(self):
+        return "Learn. Build. Improve. Repeat."
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🎓 Pursuing M.Tech in Computer Science at **IIT Patna**.
+- 🧠 Exploring AI/ML, Natural Language Processing, and intelligent systems.
+- 💻 Building with Python, Java, SQL, and modern development tools.
+- 🔬 Interested in applying NLP to offensive-language detection and cyberbullying prevention.
+- 🤝 Open to collaborating on meaningful software and AI projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaqeem1021&show_icons=true&locale=en&layout=compact" alt="mustaqeem1021" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaqeem1021&show_icons=true&locale=en" alt="mustaqeem1021" /></p>
+## `tech_stack` — Tools I work with
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqeem1021&" alt="mustaqeem1021" /></p>
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS" />
+
+**Frameworks, databases & tools**
+
+<img src="https://skillicons.dev/icons?i=spring,react,mysql,git,github,linux,postman,gcp" alt="Spring, React, MySQL, Git, GitHub, Linux, Postman and Google Cloud" />
+
+</div>
+
+---
+
+## `github_stats` — My activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mustaqeem1021&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaqeem1021&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=6" alt="Most used programming languages" />
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Mustaqeem1021&hide_border=true&background=0D1117&ring=818CF8&fire=A78BFA&currStreakLabel=818CF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## `connect()` — Let's connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mustaqeemmomin/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/mustaqeemmomin14/">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="mailto:mustaqeemmomin14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+*"Great software starts with curiosity and grows through consistency."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner" />
+
+</div>
